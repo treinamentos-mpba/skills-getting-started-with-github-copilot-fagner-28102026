@@ -38,7 +38,7 @@ O cancelamento retorna `404` se a atividade não existir e `400` se o estudante 
 
 ## Testes
 
-Na raiz do repositório, execute `python -m unittest discover -s tests`.
+Na raiz do repositório, execute `python -m pytest`.
 
 ## Modelo de Dados
 
